@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CSM_Support</fullName>
+    <active>false</active>
+    <compactLayoutAssignment>DealSupportRequestCompactSFX</compactLayoutAssignment>
+    <description>Select to request Customer Success Manager support--Adoption, Best Practices, etc.</description>
+    <label>CSM Support</label>
+</RecordType>
