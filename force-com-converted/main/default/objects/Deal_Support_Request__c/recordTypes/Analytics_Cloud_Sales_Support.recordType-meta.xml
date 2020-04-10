@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Analytics_Cloud_Sales_Support</fullName>
+    <active>false</active>
+    <compactLayoutAssignment>DealSupportRequestCompactSFX</compactLayoutAssignment>
+    <description>Used to request SE support for Analytics Cloud opportunities and to track SE engagement progress.</description>
+    <label>Analytics Cloud Sales Support</label>
+</RecordType>
